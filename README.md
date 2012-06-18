@@ -25,6 +25,8 @@ Desserts
 
 * [Pie](http://css3pie.com/)
 * [Ice Cream Sandwich](http://source.android.com/source/downloading.html)
+* [Cinnamon](http://cinnamon.linuxmint.com/)
+* [Candy](http://candy-chat.github.com/candy/)
 
 Beverages
 ---
@@ -34,5 +36,6 @@ Beverages
 * [IcedCoffeeScript](http://maxtaco.github.com/coffee-script/)
 * [Milk](http://pvande.net/Milk/)
 * [Homebrew](http://mxcl.github.com/homebrew/)
+* [Bourbon](http://thoughtbot.com/bourbon/)
 
 Add [ice cubes](http://seejohnrun.github.com/ice_cube/) to your drinks.
