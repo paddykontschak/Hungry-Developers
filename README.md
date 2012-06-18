@@ -20,7 +20,7 @@ Condiments
 
 * [Jam](http://groundcomputing.co.uk/code/jam)
 
-Dessert
+Desserts
 ---
 
 * [Pie](http://css3pie.com/)
@@ -33,5 +33,6 @@ Beverages
 * [Coffeescript](http://coffeescript.org/)
 * [IcedCoffeeScript](http://maxtaco.github.com/coffee-script/)
 * [Milk](http://pvande.net/Milk/)
+* [Homebrew](http://mxcl.github.com/homebrew/)
 
 Add [ice cubes](http://seejohnrun.github.com/ice_cube/) to your drinks.
