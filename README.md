@@ -9,7 +9,7 @@ Meals
 * [Brunch](http://brunch.io/)
  * [with Eggs and Bacon](https://github.com/nezoomie/brunch-eggs-and-bacon)
 
-Additions
+Extras
 ---
 
 * [Ham](https://github.com/radiosilence/Ham)
