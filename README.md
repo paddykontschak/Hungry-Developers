@@ -23,7 +23,8 @@ Condiments
 Desserts
 ---
 
-* [Pie](http://css3pie.com/)
+* [Chocolat](http://chocolatapp.com/)
+* [PIE](http://css3pie.com/)
 * [Ice Cream Sandwich](http://source.android.com/source/downloading.html)
 * [Cinnamon](http://cinnamon.linuxmint.com/)
 * [Candy](http://candy-chat.github.com/candy/)
