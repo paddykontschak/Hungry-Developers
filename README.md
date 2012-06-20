@@ -1,7 +1,7 @@
 Hungry Developers
 =================
 
-A collection of programming tools with food-inspired names.
+A collection of internet things (for programming in some way or another) with food-inspired names.
 
 Meals
 ---
@@ -23,20 +23,26 @@ Condiments
 Desserts
 ---
 
-* [Chocolat](http://chocolatapp.com/)
-* [PIE](http://css3pie.com/)
-* [Ice Cream Sandwich](http://source.android.com/source/downloading.html)
-* [Cinnamon](http://cinnamon.linuxmint.com/)
 * [Candy](http://candy-chat.github.com/candy/)
+* [Chocolat](http://chocolatapp.com/)
+* [Cinnamon](http://cinnamon.linuxmint.com/)
+* [Ice Cream Sandwich](http://source.android.com/source/downloading.html)
+* [Apples](http://www.apple.com/)
+* [Blackberries](http://us.blackberry.com/)
+* [PIE](http://css3pie.com/)
+* [Raspberry Pi](http://www.raspberrypi.org/)
 
 Beverages
 ---
 
+* [Milk](http://pvande.net/Milk/)
 * Java
+* [Espresso](http://macrabbit.com/espresso/)
 * [Coffeescript](http://coffeescript.org/)
 * [IcedCoffeeScript](http://maxtaco.github.com/coffee-script/)
-* [Milk](http://pvande.net/Milk/)
+* [Tea](http://onecrayon.com/tea/)
 * [Homebrew](http://mxcl.github.com/homebrew/)
 * [Bourbon](http://thoughtbot.com/bourbon/)
+
 
 Add [ice cubes](http://seejohnrun.github.com/ice_cube/) to your drinks.
