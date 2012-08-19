@@ -8,6 +8,7 @@ Meals
 
 * [Brunch](http://brunch.io/)
  * [with Eggs and Bacon](https://github.com/nezoomie/brunch-eggs-and-bacon)
+ * [with Hipsters](https://github.com/elving/brunch-with-hipsters)
 
 Extras
 ---
